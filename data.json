@@ -1,0 +1,23 @@
+{
+	"title":{"head":"Karim Toufique", "description":"Engineering Student | Telecommunications | ktoufique@enseirb-matmeca.fr"}
+	,
+	"intro":
+	[
+	{"name":"ABOUT", "description":"I'm an engineering student at ENSEIRB-MATMECA.", "pointOut":"#resume"},
+	{"name":"education", "description":"Studying Telecommunications gave me a large and rich knowledge about most of the OSI Model Layers, including Signal Processing, Digital Communications, Networking and Software Engineering."},
+	{"name":"& PASSION", "description":"Passionate about Web Engineering. Maybe put a link this list Bootstrap, AngularJS..."}
+	]
+	,
+	"jobsEducation" :{
+		"education" : 
+		[
+		{"who":"Engineering School", "where":"ENSEIRB-MATMECA", "when":"GRADUATING IN NOVEMBER 2015", "what":"3 Years Course - Telecommunications", "current": true},
+		{"who":"Post-Secondary Preparatory School", "where":"Lycée Saint Stanislas(Nantes, FRANCE) - Lycée Blaise Pascale(Clermont Ferrand, FRANCE)", "when":"2010 - 2012", "what":"2 Years Course Preparing for Entrance Examinations to the French Grandes Ecoles. ", "current": false}
+		]
+		,
+		"jobs" : [
+		{"who":"Web Developper - Intern", "where":"COMPTALIA - ECOLEMS (Montpellier, FRANCE)", "when":"JUNE 2014 - current" ,"what":"Design of a Web Interface in Bootstrap/AngularJS that is fed with data by ASP.NET. This interface is designed to generate e-mails and PDF documents and send them to clients.", "current":true},
+		{"who":"Networking - Intern", "where":"ATENTO - Telefónica (Casablanca, MOROCCO)", "when":"JULY 2013", "what":"Network maintenance in the Call Center, and made tests on new Asterisk Server Features.", "current":false}
+		]
+	}
+}
