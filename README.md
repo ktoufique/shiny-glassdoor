@@ -9,3 +9,4 @@ In order to re-use this you need to edit:
 
 Contact info and skills need to be edited in the index.html file for now.
 
+Working example for my resumé : http://ktoufique.vvv.enseirb-matmeca.fr
